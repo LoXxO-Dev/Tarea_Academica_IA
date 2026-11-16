@@ -10,7 +10,6 @@ en proveedores regionales de telecomunicaciones mediante modelos de clasificaci�
   ([Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)).
 - `resultados/` – archivos que genera el notebook: `results.json` (métricas de las 9 configuraciones),
   `cv_grid.csv` (ROC-AUC de validación de cada combinación de hiperparámetros) y las Figuras 2 y 3.
-- `documentos/Grupo4-TA-Final.pdf` y `.docx` – informe final.
 
 ## Ejecución
 Requiere Python 3.10+ con `numpy`, `pandas`, `scikit-learn` y `matplotlib` (vienen instalados en Google Colab).
